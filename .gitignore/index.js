@@ -18,7 +18,7 @@ bot.on('ready', () => {
     bot.user.setActivity("p.help pour de l'aide !")
   });*/
 
-bot.login(tokenp)
+bot.login(tokenz)
 
 //say en embed
 bot.on('message', async message => {
